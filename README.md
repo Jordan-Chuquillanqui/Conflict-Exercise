@@ -6,6 +6,7 @@ List of conflicts
 - Conflict 1
 - Conflict of the Seductor
 - Conflict 2
+- Conflict of the Sabroso camarão
 
 **CONFLICTS ARE COMMING**
 
@@ -16,8 +17,6 @@ List of conflicts
 # Conflict-Exercise
 
 Este es una branch de un repo en el que vamos a generar merge conflicts intencionalmente.
-
-Uy un guei
 
 Yo soy Eduardo Echeverri Echeverry Echeverría Echavarría Echeto Echaurren
 Camarão do río
